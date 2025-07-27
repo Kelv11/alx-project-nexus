@@ -79,7 +79,7 @@ The **ProDev Frontend Engineering** track is an intensive hands-on program that 
 
 - **Think in Components**: Break problems into small, testable, and reusable parts.
 - **Type Everything**: TypeScript reduces bugs and improves code readability.
-- **Git is Your Friend**: Use version control properly — commit early, commit often.
+- **Git is Your Friend**: Use version control properly, commit early, commit often.
 - **Design Responsively**: Always design with all screen sizes in mind.
 - **Collaborate Effectively**: Don’t build in isolation. Share, discuss, and grow with your peers.
 
